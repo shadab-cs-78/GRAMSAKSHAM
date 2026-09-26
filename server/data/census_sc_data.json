@@ -1,0 +1,338 @@
+{
+  "districts": [
+    {
+      "district_name": "Ratlam",
+      "district_code": 434,
+      "state_code": 23,
+      "coordinates": {
+        "lat": 23.3315,
+        "lng": 75.0367
+      },
+      "total_sc_population": 49156,
+      "rural_sc_population": 49156,
+      "total_records_count": 94,
+      "key_occupations": [
+        {
+          "name": "Cultivators",
+          "count": 14689,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Agricultural Labourers",
+          "count": 30443,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Household Industry Workers",
+          "count": 284,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Other Workers",
+          "count": 3587,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Computer Operator",
+          "count": 37,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Data Entry Assistant",
+          "count": 15,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Digital Service Assistant",
+          "count": 22,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "IT Support Assistant",
+          "count": 29,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Mobile App Support Worker",
+          "count": 36,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Computer Training Assistant",
+          "count": 14,
+          "category": "technology",
+          "sector": "technology"
+        }
+      ]
+    },
+    {
+      "district_name": "Rewa",
+      "district_code": 430,
+      "state_code": 23,
+      "coordinates": {
+        "lat": 24.5362,
+        "lng": 81.3037
+      },
+      "total_sc_population": 82942,
+      "rural_sc_population": 82942,
+      "total_records_count": 94,
+      "key_occupations": [
+        {
+          "name": "Cultivators",
+          "count": 5375,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Agricultural Labourers",
+          "count": 59711,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Household Industry Workers",
+          "count": 5661,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Other Workers",
+          "count": 12066,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Computer Operator",
+          "count": 33,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Data Entry Assistant",
+          "count": 11,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Digital Service Assistant",
+          "count": 18,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "IT Support Assistant",
+          "count": 25,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Mobile App Support Worker",
+          "count": 32,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Computer Training Assistant",
+          "count": 10,
+          "category": "technology",
+          "sector": "technology"
+        }
+      ]
+    },
+    {
+      "district_name": "Morena",
+      "district_code": 419,
+      "state_code": 23,
+      "coordinates": {
+        "lat": 26.4947,
+        "lng": 77.994
+      },
+      "total_sc_population": 38639,
+      "rural_sc_population": 30591,
+      "total_records_count": 135,
+      "key_occupations": [
+        {
+          "name": "Market Oriented Skilled Agricultural and Fishery Workers",
+          "count": 6142,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "SKILLED AGRICULTURAL AND FISHERY WORKERS",
+          "count": 6142,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Market –Oriented Animal Producers and Related Workers",
+          "count": 6036,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Dairy and Livestock Producers",
+          "count": 6020,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Labourers in Mining, Construction, Manufacturing and Transport",
+          "count": 4740,
+          "category": "construction",
+          "sector": "business"
+        },
+        {
+          "name": "Mining and Construction Labourers",
+          "count": 4164,
+          "category": "construction",
+          "sector": "business"
+        },
+        {
+          "name": "Building Construction Labourers",
+          "count": 2804,
+          "category": "construction",
+          "sector": "business"
+        },
+        {
+          "name": "Construction and Maintenance Labourers, Roads, Dams",
+          "count": 1218,
+          "category": "construction",
+          "sector": "business"
+        },
+        {
+          "name": "Extraction and Building Trades Workers",
+          "count": 779,
+          "category": "construction",
+          "sector": "business"
+        },
+        {
+          "name": "Building Frame and Related Trades Workers",
+          "count": 594,
+          "category": "construction",
+          "sector": "business"
+        }
+      ]
+    },
+    {
+      "district_name": "Shahdol",
+      "district_code": 460,
+      "state_code": 23,
+      "coordinates": {
+        "lat": 23.2957,
+        "lng": 81.3577
+      },
+      "total_sc_population": 14264,
+      "rural_sc_population": 14264,
+      "total_records_count": 94,
+      "key_occupations": [
+        {
+          "name": "Cultivators",
+          "count": 3305,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Agricultural Labourers",
+          "count": 6898,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Household Industry Workers",
+          "count": 1271,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Other Workers",
+          "count": 2655,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Computer Operator",
+          "count": 34,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Data Entry Assistant",
+          "count": 12,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Digital Service Assistant",
+          "count": 19,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "IT Support Assistant",
+          "count": 26,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Mobile App Support Worker",
+          "count": 33,
+          "category": "technology",
+          "sector": "technology"
+        },
+        {
+          "name": "Computer Training Assistant",
+          "count": 11,
+          "category": "technology",
+          "sector": "technology"
+        }
+      ]
+    },
+    {
+      "district_name": "Jabalpur",
+      "district_code": 457,
+      "state_code": 23,
+      "coordinates": {
+        "lat": 23.1815,
+        "lng": 79.965
+      },
+      "total_sc_population": 52180,
+      "rural_sc_population": 52180,
+      "total_records_count": 4,
+      "key_occupations": [
+        {
+          "name": "Cultivators",
+          "count": 6420,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Agricultural Labourers",
+          "count": 31200,
+          "category": "farming",
+          "sector": "agriculture"
+        },
+        {
+          "name": "Household Industry Workers",
+          "count": 1890,
+          "category": "other",
+          "sector": "business"
+        },
+        {
+          "name": "Other Workers",
+          "count": 12670,
+          "category": "other",
+          "sector": "business"
+        }
+      ]
+    }
+  ]
+}

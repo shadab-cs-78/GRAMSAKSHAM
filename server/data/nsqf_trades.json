@@ -1,0 +1,182 @@
+[
+  {
+    "id": "NSQF-ELEC-01",
+    "title_hi": "इलेक्ट्रीशियन (ITI)",
+    "title_en": "Electrician (ITI)",
+    "category": "training",
+    "sector": "Electronics & Hardware",
+    "nsqf_level": 4,
+    "duration_months": "3-6 महीने",
+    "duration_hours": 400,
+    "min_education": "10th",
+    "suitable_for": [
+      "आपकी रुचि विद्युत/तकनीकी कार्यों में है",
+      "इस क्षेत्र में स्थानीय और नजदीकी शहरों में भारी मांग है",
+      "स्वरोजगार (दुकान/सर्विस) और नौकरी दोनों के अवसर"
+    ],
+    "institute": {
+      "name_hi": "राजकीय आईटीआई / प्रधानमंत्री कौशल केंद्र (PMKK)",
+      "name_en": "Govt ITI / PMKK Centre",
+      "distance_km": 5,
+      "contact": "0761-2645890",
+      "address": "सिविल लाइन्स, जिला केंद्र"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 टूलकिट एवं दुकान अनुदान (स्वरोजगार)",
+      "stipend": "₹1,500 प्रतिमाह प्रशिक्षण भत्ता",
+      "certification": "NCVT / NCVET सरकारी मान्यता प्राप्त प्रमाणपत्र"
+    },
+    "image_type": "electrician"
+  },
+  {
+    "id": "NSQF-MOB-02",
+    "title_hi": "मोबाइल रिपेयरिंग",
+    "title_en": "Mobile Repairing",
+    "category": "training",
+    "sector": "Electronics & IT",
+    "nsqf_level": 4,
+    "duration_months": "3 महीने",
+    "duration_hours": 300,
+    "min_education": "8th",
+    "suitable_for": [
+      "तकनीकी व डिजिटल उपकरणों में रुचि",
+      "गाँव व स्थानीय बाज़ार में तुरंत दुकान खोलने की सुविधा",
+      "कम लागत में त्वरित आय"
+    ],
+    "institute": {
+      "name_hi": "ग्रामीण स्वरोजगार प्रशिक्षण संस्थान (RSETI)",
+      "name_en": "Rural Self Employment Training Institute (RSETI)",
+      "distance_km": 8,
+      "contact": "0761-2894561",
+      "address": "ब्लॉक हेडक्वार्टर"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹45,000 रिपेयरिंग उपकरण व स्पेयर पार्ट्स किट",
+      "stipend": "₹1,500 प्रतिमाह भत्ता",
+      "certification": "Telecom Sector Skill Council (TSSC) प्रमाणपत्र"
+    },
+    "image_type": "mobile"
+  },
+  {
+    "id": "NSQF-SOLAR-03",
+    "title_hi": "सोलर पीवी इंस्टॉलर (सूर्यमित्र)",
+    "title_en": "Solar PV Installer (Suryamitra)",
+    "category": "training",
+    "sector": "Green Jobs",
+    "nsqf_level": 4,
+    "duration_months": "3 महीने",
+    "duration_hours": 300,
+    "min_education": "10th",
+    "suitable_for": [
+      "ग्रामीण क्षेत्रों में पीएम-कुसुम सोलर पंप विस्तार",
+      "हरित ऊर्जा क्षेत्र में उच्च वेतन की नौकरी",
+      "स्थानीय पंचायतों में सौर संयंत्र रखरखाव अनुबंध"
+    ],
+    "institute": {
+      "name_hi": "कौशल विकास केंद्र - नवीन एवं नवीकरणीय ऊर्जा",
+      "name_en": "Skill Development Centre - MNRE",
+      "distance_km": 12,
+      "contact": "0761-2458712",
+      "address": "औद्योगिक क्षेत्र"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 सोलर उपकरण व सुरक्षा किट",
+      "stipend": "₹2,000 प्रतिमाह आवासीय भत्ता",
+      "certification": "Skill Council for Green Jobs (SCGJ) प्रमाणित"
+    },
+    "image_type": "solar"
+  },
+  {
+    "id": "NSQF-AGRI-04",
+    "title_hi": "जैविक कृषि एवं मशरूम उत्पादक",
+    "title_en": "Organic Grower & Mushroom Cultivator",
+    "category": "self_employment",
+    "sector": "Agriculture & FoodTech",
+    "nsqf_level": 3,
+    "duration_months": "1-2 महीने",
+    "duration_hours": 200,
+    "min_education": "primary",
+    "suitable_for": [
+      "पारंपरिक खेती की उपज का मूल्य संवर्धन",
+      "कम भूमि या बिना भूमि वाले घरों के लिए उपयुक्त",
+      "स्थानीय बाज़ार और शहरों में जैविक उत्पादों की उच्च मांग"
+    ],
+    "institute": {
+      "name_hi": "कृषि विज्ञान केंद्र (KVK)",
+      "name_en": "Krishi Vigyan Kendra (KVK)",
+      "distance_km": 6,
+      "contact": "0761-2338901",
+      "address": "कृषि अनुसंधान परिसर"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 शेड निर्माण व कम्पोस्ट बीज किट",
+      "stipend": "₹1,000 प्रतिमाह भत्ता",
+      "certification": "Agriculture Skill Council of India (ASCI)"
+    },
+    "image_type": "agriculture"
+  },
+  {
+    "id": "NSQF-TAILOR-05",
+    "title_hi": "सिलाई मशीन ऑपरेटर एवं बुटीक",
+    "title_en": "Sewing Machine Operator & Boutique",
+    "category": "training",
+    "sector": "Apparel & Handicrafts",
+    "nsqf_level": 3,
+    "duration_months": "2-3 महीने",
+    "duration_hours": 240,
+    "min_education": "primary",
+    "suitable_for": [
+      "गाँव में ही घर से काम करने की पूर्ण स्वतंत्रता",
+      "पारंपरिक वस्त्र निर्माण व आधुनिक सिलाई कौशल",
+      "महिला स्वयं सहायता समूहों (SHG) के साथ समूह आजीविका"
+    ],
+    "institute": {
+      "name_hi": "ग्राम पंचायत सिलाई प्रशिक्षण केंद्र",
+      "name_en": "Gram Panchayat Sewing Training Centre",
+      "distance_km": 2,
+      "contact": "0761-2290134",
+      "address": "पंचायत भवन"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "मुफ्त मोटरयुक्त सिलाई मशीन + ₹25,000 कच्चा माल अनुदान",
+      "stipend": "₹1,500 प्रतिमाह भत्ता",
+      "certification": "Apparel Sector Skill Council"
+    },
+    "image_type": "tailoring"
+  },
+  {
+    "id": "NSQF-FOOD-06",
+    "title_hi": "खाद्य प्रसंस्करण एवं बेकरी उद्यमिता",
+    "title_en": "Food Processing & Micro-Enterprise",
+    "category": "self_employment",
+    "sector": "Food Processing",
+    "nsqf_level": 3,
+    "duration_months": "2 महीने",
+    "duration_hours": 200,
+    "min_education": "5th",
+    "suitable_for": [
+      "एक जिला एक उत्पाद (ODOP) स्थानीय फसलों का मूल्य संवर्धन",
+      "अचार, पापड़, मसाला, दाल प्रसंस्करण इकाई",
+      "पीएम-एफएमई और पीएम-अजय जीआईए संयुक्त सब्सिडी लाभ"
+    ],
+    "institute": {
+      "name_hi": "जिला उद्योग एवं व्यापार केंद्र (DIC)",
+      "name_en": "District Industries Centre (DIC)",
+      "distance_km": 10,
+      "contact": "0761-2557812",
+      "address": "उद्योग भवन"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 प्रसंस्करण मशीनरी खरीद अनुदान",
+      "stipend": "₹1,500 प्रतिमाह भत्ता",
+      "certification": "FICSI (Food Industry Capacity & Skill Initiative)"
+    },
+    "image_type": "food"
+  }
+]

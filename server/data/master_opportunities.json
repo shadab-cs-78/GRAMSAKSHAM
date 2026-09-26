@@ -1,0 +1,1281 @@
+[
+  {
+    "id": "NSQF-ELEC-01",
+    "title_hi": "इलेक्ट्रीशियन (ITI)",
+    "title_en": "Electrician (ITI)",
+    "category": "training",
+    "sector": "Electronics & Hardware",
+    "nsqf_level": 4,
+    "duration": "3-6 महीने",
+    "min_education": "secondary",
+    "districts": [
+      "Jabalpur",
+      "Shahdol",
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.1815,
+      "lng": 79.965
+    },
+    "institute": {
+      "name_hi": "राजकीय संभागीय आईटीआई / पीएमकेके केंद्र",
+      "name_en": "Govt Divisional ITI / PMKK Centre",
+      "distance_km": 5,
+      "contact": "0761-2645890",
+      "address": "सिविल लाइन्स, जिला केंद्र"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 टूलकिट एवं दुकान अनुदान (PM-AJAY GIA)",
+      "stipend": "₹1,500 प्रतिमाह प्रशिक्षण भत्ता",
+      "toolkit": "मुफ्त डिजिटल मल्टीमीटर व वायरिंग टूलकिट"
+    },
+    "suitable_for": [
+      "आपकी रुचि विद्युत/तकनीकी कार्यों में है",
+      "स्थानीय पंचायतों और नजदीकी शहरों में भारी मांग है",
+      "स्वरोजगार (दुकान/सर्विस) और कंपनी दोनों के अवसर"
+    ],
+    "image_type": "electrician"
+  },
+  {
+    "id": "NSQF-MOB-02",
+    "title_hi": "मोबाइल रिपेयरिंग एवं डिजिटल डिवाइस सेवा",
+    "title_en": "Mobile Repairing & Digital Hardware",
+    "category": "training",
+    "sector": "Electronics & IT",
+    "nsqf_level": 4,
+    "duration": "3 महीने",
+    "min_education": "primary",
+    "districts": [
+      "Jabalpur",
+      "Shahdol",
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.197,
+      "lng": 80.352
+    },
+    "institute": {
+      "name_hi": "ग्रामीण स्वरोजगार प्रशिक्षण संस्थान (RSETI)",
+      "name_en": "Rural Self Employment Training Institute (RSETI)",
+      "distance_km": 6,
+      "contact": "0761-2894561",
+      "address": "तहसील व ब्लॉक परिसर"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹45,000 रिपेयरिंग उपकरण व स्पेयर पार्ट्स किट",
+      "stipend": "₹1,500 प्रतिमाह भत्ता",
+      "toolkit": "एसएमडी सोल्डरिंग स्टेशन व टेस्टिंग टूलकिट"
+    },
+    "suitable_for": [
+      "तकनीकी व डिजिटल उपकरणों में रुचि",
+      "गाँव व स्थानीय बाज़ार में तुरंत दुकान खोलने की सुविधा",
+      "कम लागत में त्वरित मासिक आय"
+    ],
+    "image_type": "mobile"
+  },
+  {
+    "id": "NSQF-SOLAR-03",
+    "title_hi": "सूर्य मित्र - सोलर पंप एवं रूफटॉप तकनीशियन",
+    "title_en": "Surya Mitra - Solar Pump & Rooftop Tech",
+    "category": "training",
+    "sector": "Green Jobs & Renewable Energy",
+    "nsqf_level": 4,
+    "duration": "3 महीने (280 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Rewa",
+      "Ratlam",
+      "Morena",
+      "Shahdol",
+      "Jabalpur",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 24.5362,
+      "lng": 81.3037
+    },
+    "institute": {
+      "name_hi": "राष्ट्रीय सौर ऊर्जा संस्थान सहयोगी केंद्र / पीएमकेके रीवा",
+      "name_en": "NISE Partner Hub / PMKK Rewa",
+      "distance_km": 8,
+      "contact": "07662-241560",
+      "address": "सिरमौर रोड, विश्वविद्यालय के पास, रीवा"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 सोलर उपकरण व टूलकिट सहायता (PM-AJAY GIA)",
+      "stipend": "₹4,000 प्रतिमाह (PM-KUSUM Skilling)",
+      "toolkit": "सोलर पैनल टेस्टिंग व सेफ्टी टूलकिट"
+    },
+    "suitable_for": [
+      "रीवा सोलर पार्क और पीएम-कुसुम सिंचाई पंपों में भारी मांग",
+      "तकनीकी हुनर के साथ पर्यावरण अनुकूल हरित रोजगार",
+      "डिस्कॉम और सोलर कंपनियों में सर्विस कांट्रैक्ट"
+    ],
+    "image_type": "solar"
+  },
+  {
+    "id": "NSQF-TAILOR-04",
+    "title_hi": "सिलाई मशीन ऑपरेटर एवं आधुनिक बुटीक",
+    "title_en": "Self-Employed Tailor & Modern Boutique",
+    "category": "training",
+    "sector": "Apparel & Garment",
+    "nsqf_level": 4,
+    "duration": "3 महीने (240 घंटे)",
+    "min_education": "no_formal",
+    "districts": [
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Jabalpur",
+      "Shahdol",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.3315,
+      "lng": 75.0367
+    },
+    "institute": {
+      "name_hi": "पीएमकेके एवं आरसेटी सिलाई प्रशिक्षण केंद्र",
+      "name_en": "PMKK & RSETI Apparel Training Hub",
+      "distance_km": 4,
+      "contact": "07412-234890",
+      "address": "सागोद रोड, रतलाम"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 सिलाई मशीन, ओवरलॉक व बुटीक उपकरण अनुदान",
+      "stipend": "₹1,500 प्रतिमाह सरकारी भत्ता",
+      "toolkit": "मुफ्त मोटरयुक्त सिलाई मशीन व कटिंग किट"
+    },
+    "suitable_for": [
+      "पारंपरिक सिलाई या कपड़े बनाने के काम में रुचि/अनुभव",
+      "घर पर या गाँव में बुटीक केंद्र खोलने का अवसर",
+      "महिला स्वयं सहायता समूह (SHG) से सीधा जुड़ाव"
+    ],
+    "image_type": "tailoring"
+  },
+  {
+    "id": "NSQF-AGRI-05",
+    "title_hi": "जैविक किसान, केंचुआ खाद एवं मशरूम उत्पादन",
+    "title_en": "Organic Farmer & Bio-Fertilizer Specialist",
+    "category": "training",
+    "sector": "Agriculture & Allied",
+    "nsqf_level": 4,
+    "duration": "6 सप्ताह (240 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Shahdol",
+      "Ratlam",
+      "Rewa",
+      "Jabalpur",
+      "Morena",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.2957,
+      "lng": 81.3577
+    },
+    "institute": {
+      "name_hi": "कृषि विज्ञान केंद्र (KVK) शहडोल / आईसीएआर",
+      "name_en": "Krishi Vigyan Kendra (KVK) Shahdol",
+      "distance_km": 7,
+      "contact": "07652-248901",
+      "address": "कृषि अनुसंधान परिसर, शहडोल"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 वर्मीकंपोस्ट शेड व पैकेजिंग यूनिट अनुदान",
+      "stipend": "₹3,500 प्रतिमाह (PMKVY 4.0)",
+      "toolkit": "मृदा परीक्षण किट व बायो-इनपुट उपकरण"
+    },
+    "suitable_for": [
+      "पारंपरिक खेती को शून्य लागत जैविक खेती में बदलना",
+      "केंचुआ खाद तैयार कर स्थानीय बाज़ार में सीधी बिक्री",
+      "कम भूमि में मशरूम उत्पादन से अतिरिक्त मासिक आय"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "NSQF-FOOD-06",
+    "title_hi": "खाद्य प्रसंस्करण एवं श्रीअन्न (मिलेट्स) मूल्य संवर्धन",
+    "title_en": "Food Processing & Millets Value Addition",
+    "category": "training",
+    "sector": "Food Processing & ODOP",
+    "nsqf_level": 4,
+    "duration": "2 महीने (200 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Shahdol",
+      "Rewa",
+      "Ratlam",
+      "Jabalpur",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "जिला उद्योग केंद्र (DIC) एवं खाद्य क्लस्टर मुरैना",
+      "name_en": "District Industries Centre (DIC) Food Hub Morena",
+      "distance_km": 5,
+      "contact": "07532-234120",
+      "address": "औद्योगिक क्षेत्र, एबी रोड, मुरैना"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 प्रसंस्करण मशीन व पैकेजिंग सहायता (PMFME + GIA)",
+      "stipend": "₹2,500 प्रतिमाह भत्ता",
+      "toolkit": "फूड हाइजीन, सीलिंग मशीन व डिजिटल वेइंग स्केल"
+    },
+    "suitable_for": [
+      "मुरैना का सरसों तेल व गजक / रतलाम का नमकीन व लहसुन क्लस्टर",
+      "कोदो-कुटकी, बाजरा व दालों का आटा/स्नैक्स निर्माण",
+      "स्थानीय कृषि उपज का मूल्य संवर्धन कर 3 गुना मुनाफा"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "NSQF-DRONE-07",
+    "title_hi": "किसान ड्रोन ऑपरेटर एवं कृषि छिड़काव विशेषज्ञ",
+    "title_en": "Kisan Drone Operator & Maintenance Specialist",
+    "category": "training",
+    "sector": "AgriTech & Modern Equipment",
+    "nsqf_level": 5,
+    "duration": "8 सप्ताह (300 घंटे)",
+    "min_education": "secondary",
+    "districts": [
+      "Sehore",
+      "Jabalpur",
+      "Rewa",
+      "Ratlam",
+      "Morena",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 23.203,
+      "lng": 77.0844
+    },
+    "institute": {
+      "name_hi": "आईसीएआर कृषि विज्ञान केंद्र एवं डीजीसीए ड्रोन अकादमी",
+      "name_en": "ICAR-KVK & DGCA Drone Pilot Academy",
+      "distance_km": 11,
+      "contact": "07562-226450",
+      "address": "कृषि अनुसंधान परिसर, सीहोर"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "नमो ड्रोन दीदी एवं पीएम-अजय कस्टम हायरिंग सहायता",
+      "stipend": "₹4,500 प्रतिमाह सरकारी भत्ता",
+      "toolkit": "ड्रोन पायलट लाइसेंस व मेंटेनेंस टूलकिट"
+    },
+    "suitable_for": [
+      "कृषि छिड़काव और फसल स्वास्थ्य निगरानी में नई तकनीक",
+      "प्रति एकड़ ₹350-₹500 शुल्क लेकर कस्टम हायरिंग केंद्र संचालन",
+      "डीजीसीए प्रमाणित पायलट के रूप में उच्च आय के अवसर"
+    ],
+    "image_type": "drone"
+  },
+  {
+    "id": "NSQF-CSC-08",
+    "title_hi": "ग्रामीण डिजिटल मित्र / वीएलई ई-गवर्नेंस सहायक",
+    "title_en": "Gramin Digital Mitra / VLE Assistant",
+    "category": "training",
+    "sector": "IT-ITeS & Digital Services",
+    "nsqf_level": 4,
+    "duration": "4 सप्ताह (180 घंटे)",
+    "min_education": "secondary",
+    "districts": [
+      "Jabalpur",
+      "Shahdol",
+      "Rewa",
+      "Ratlam",
+      "Morena",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.1815,
+      "lng": 79.965
+    },
+    "institute": {
+      "name_hi": "सीएससी एकेडमी एवं ई-गवर्नेंस प्रशिक्षण केंद्र",
+      "name_en": "CSC Academy & E-Governance Hub",
+      "distance_km": 4,
+      "contact": "1800-121-3468",
+      "address": "जिला ई-गवर्नेंस केंद्र, कलेक्ट्रेट परिसर"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 लैपटॉप/प्रिंटर एवं बायोमेट्रिक डिवाइस सहायता",
+      "stipend": "₹3,000 प्रतिमाह भत्ता",
+      "toolkit": "आधार बायोमेट्रिक स्कैनर व डिजिटल सर्विस किट"
+    },
+    "suitable_for": [
+      "गाँव में ही सरकारी ई-सेवाएं, डीबीटी और बैंकिंग मित्र केंद्र",
+      "प्रत्येक सरकारी सेवा और आवेदन पर निश्चित कमीशन आय",
+      "कम लागत में पंचायत भवन या घर से ही कार्य शुरू करने की सुविधा"
+    ],
+    "image_type": "computer"
+  },
+  {
+    "id": "NSQF-DAIRY-09",
+    "title_hi": "डेयरी फार्म पर्यवेक्षक एवं दुग्ध प्रसंस्करण तकनीक",
+    "title_en": "Dairy Farm Supervisor & Milk Processing Tech",
+    "category": "training",
+    "sector": "Animal Husbandry & Dairy",
+    "nsqf_level": 5,
+    "duration": "6 सप्ताह (260 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Sehore",
+      "Jabalpur",
+      "Rewa",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "दुग्ध महासंघ प्रशिक्षण केंद्र एवं आरसेटी",
+      "name_en": "Dairy Federation Training Center & RSETI",
+      "distance_km": 8,
+      "contact": "07532-225670",
+      "address": "औद्योगिक क्षेत्र, मुरैना"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 मिनी डेयरी व मिल्क चिलिंग इक्विपमेंट ग्रांट",
+      "stipend": "₹3,500 प्रतिमाह भत्ता",
+      "toolkit": "दूध वसा परीक्षण एवं ऑटोमेटेड मिल्किंग मशीन किट"
+    },
+    "suitable_for": [
+      "पशु आहार प्रबंधन और पनीर/दही मूल्य संवर्धन",
+      "सांची व अमूल सहकारी समितियों में कलेक्शन सेंटर संचालन",
+      "दुधारू पशुओं के साथ सतत दैनिक नकद आय"
+    ],
+    "image_type": "dairy"
+  },
+  {
+    "id": "NSQF-AQUA-10",
+    "title_hi": "मीठे पानी में मत्स्य पालन एवं बायोफ्लॉक विशेषज्ञ",
+    "title_en": "Freshwater Aquaculture & Biofloc Specialist",
+    "category": "training",
+    "sector": "Fisheries & Aquaculture",
+    "nsqf_level": 4,
+    "duration": "6 सप्ताह (240 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Jabalpur",
+      "Shahdol",
+      "Rewa",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.1815,
+      "lng": 79.965
+    },
+    "institute": {
+      "name_hi": "मत्स्य अनुसंधान एवं प्रशिक्षण केंद्र (ICAR-CIFA)",
+      "name_en": "Fisheries Research Hub & CIFA Hub",
+      "distance_km": 9,
+      "contact": "0761-2641230",
+      "address": "नर्मदा तट, भेड़ाघाट रोड, जबलपुर"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 बायोफ्लॉक टैंक एवं एरिएटर सब्सिडी (PMMSY + PM-AJAY)",
+      "stipend": "₹3,500 प्रतिमाह भत्ता",
+      "toolkit": "जल गुणवत्ता परीक्षण किट एवं फिंगरलिंग चारा किट"
+    },
+    "suitable_for": [
+      "कम पानी और छोटी जगह में बायोफ्लॉक टैंक से उच्च मछली उत्पादन",
+      "नर्मदा व सोन नदी घाटी क्षेत्रों में मत्स्य आहार की भारी मांग",
+      "हर 6 महीने में ₹1.5 लाख तक की शुद्ध उपज क्षमता"
+    ],
+    "image_type": "fish"
+  },
+  {
+    "id": "NSQF-MINE-11",
+    "title_hi": "खनन उपकरण एवं भारी मशीनरी अनुरक्षण तकनीशियन",
+    "title_en": "Mining Equipment & Heavy Earthmover Maintenance",
+    "category": "training",
+    "sector": "Mining & Heavy Engineering",
+    "nsqf_level": 5,
+    "duration": "6 महीने (480 घंटे)",
+    "min_education": "secondary",
+    "districts": [
+      "Shahdol",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 23.2957,
+      "lng": 81.3577
+    },
+    "institute": {
+      "name_hi": "शासकीय संभागीय आईटीआई सोहागपुर / शहडोल",
+      "name_en": "Govt ITI Sohagpur, Shahdol",
+      "distance_km": 4,
+      "contact": "07652-242310",
+      "address": "सोहागपुर कोलफील्ड्स रोड, शहडोल"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 हाइड्रोक्लोरिक व हैवी टूलकिट सहायता (PM-AJAY GIA)",
+      "stipend": "₹4,500 प्रतिमाह प्रशिक्षण भत्ता",
+      "toolkit": "हैवी हाइड्रोलिक रिंच, प्रेशर गेज व सेफ्टी गियर किट"
+    },
+    "suitable_for": [
+      "शहडोल-अनूपपुर-उमरिया कोलियरी व खनन क्षेत्र में सीधी मांग",
+      "जेसीबी, डंपर व हाइड्रो-क्रेन सर्विसिंग में उच्च तकनीकी कौशल",
+      "एसईसीएल व निजी खनन कंपनियों में नियमित रोजगार"
+    ],
+    "image_type": "electrician"
+  },
+  {
+    "id": "NSQF-CONST-13",
+    "title_hi": "भवन निर्माण पर्यवेक्षक एवं आधुनिक मेसनरी विशेषज्ञ",
+    "title_en": "Building Construction Supervisor & Advanced Masonry",
+    "category": "training",
+    "sector": "Construction & Real Estate",
+    "nsqf_level": 4,
+    "duration": "3 महीने (260 घंटे)",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Rewa",
+      "Jabalpur",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "राजकीय आईटीआई अंबाह रोड एवं निर्माण कौशल केंद्र",
+      "name_en": "Govt ITI Ambah Road & Construction Hub Morena",
+      "distance_km": 6,
+      "contact": "07538-241090",
+      "address": "अंबाह रोड, मुरैना"
+    },
+    "employment_type": "both",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 आधुनिक कंक्रीट मिक्सर व लेज़र लेवल टूलकिट",
+      "stipend": "₹3,000 प्रतिमाह प्रशिक्षण भत्ता",
+      "toolkit": "डिजिटल लेज़र लेवल, टाइल कटर व सेफ्टी किट"
+    },
+    "suitable_for": [
+      "प्रधानमंत्री आवास योजना (PMAY) व सरकारी निर्माण में भारी मांग",
+      "पारंपरिक भवन निर्माण मजदूरों का सुपरवाइजर के रूप में कौशल उन्नयन",
+      "स्थानीय ठेकेदारी और स्वतंत्र भवन निर्माण कार्य"
+    ],
+    "image_type": "electrician"
+  },
+  {
+    "id": "JOB-DRN-01",
+    "title_hi": "ड्रोन पायलट (कीटनाशक व नैनो-यूरिया छिड़काव)",
+    "title_en": "Agricultural Drone Pilot / Operator",
+    "category": "job",
+    "sector": "AgriTech & Modern Equipment",
+    "nsqf_level": 5,
+    "duration": "नियमित रोजगार (फुल टाइम)",
+    "min_education": "secondary",
+    "districts": [
+      "Sehore",
+      "Jabalpur",
+      "Rewa",
+      "Ratlam",
+      "Morena",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 23.203,
+      "lng": 77.0844
+    },
+    "institute": {
+      "name_hi": "भारत एग्रीटेक कस्टम हायरिंग सर्विसेज प्रा. लि.",
+      "name_en": "Bharat AgriTech Drone Services Pvt Ltd",
+      "distance_km": 12,
+      "contact": "1800-456-7890",
+      "address": "कृषि हब, मंडी रोड, जिला केंद्र"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹25,000 - ₹40,000 प्रतिमाह + इंसेंटिव",
+      "stipend": "ईपीएफ, ईएसआईसी स्वास्थ्य बीमा एवं यात्रा भत्ता",
+      "toolkit": "कंपनी द्वारा दिया जाने वाला डीजीसीए मान्यता प्राप्त ड्रोन"
+    },
+    "suitable_for": [
+      "10वीं पास युवा जो आधुनिक कृषि ड्रोन तकनीक में करियर चाहते हैं",
+      "प्रति एकड़ छिड़काव पर निश्चित कमीशन एवं मासिक पगार",
+      "सरकारी नमो ड्रोन दीदी क्लस्टर्स में सीधी नियुक्ति"
+    ],
+    "image_type": "drone"
+  },
+  {
+    "id": "JOB-SOL-02",
+    "title_hi": "सोलर पंप सर्विस इंजीनियर व ग्रिड मेंटेनेंस",
+    "title_en": "Solar Pump Service Engineer & Grid Tech",
+    "category": "job",
+    "sector": "Green Jobs & Renewable Energy",
+    "nsqf_level": 4,
+    "duration": "नियमित रोजगार",
+    "min_education": "secondary",
+    "districts": [
+      "Rewa",
+      "Jabalpur",
+      "Ratlam",
+      "Morena",
+      "Shahdol",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 24.5362,
+      "lng": 81.3037
+    },
+    "institute": {
+      "name_hi": "मध्य प्रदेश डिस्कॉम अधिकृत सोलर सर्विसेज",
+      "name_en": "MP DISCOM Authorized Solar Infrastructure Ltd",
+      "distance_km": 8,
+      "contact": "07662-258900",
+      "address": "सोलर पार्क सर्विस कॉम्प्लेक्स"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹20,000 - ₹35,000 प्रतिमाह",
+      "stipend": "ईएसआईसी + पीएफ + फील्ड ट्रैवल अलाउंस",
+      "toolkit": "कंपनी वाहन एवं डिजिटल फॉल्ट-डिटेक्टर किट"
+    },
+    "suitable_for": [
+      "पीएम-कुसुम सोलर पंपों की फील्ड सर्विसिंग में स्थिर नौकरी",
+      "रीवा और मालवा के सोलर पार्कों में नियमित रोजगार",
+      "इलेक्ट्रिकल बैकग्राउंड वाले युवाओं के लिए बेहतरीन अवसर"
+    ],
+    "image_type": "solar"
+  },
+  {
+    "id": "JOB-DRY-03",
+    "title_hi": "चिलिंग सेंटर सुपरवाइजर व क्वालिटी चेकर",
+    "title_en": "Milk Chilling Center Quality Supervisor",
+    "category": "job",
+    "sector": "Animal Husbandry & Dairy",
+    "nsqf_level": 5,
+    "duration": "फुल टाइम रोजगार",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Sehore",
+      "Jabalpur",
+      "Rewa",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "एमपी स्टेट को-ऑपरेटिव डेयरी फेडरेशन (सांची)",
+      "name_en": "MP State Dairy Cooperative Federation (Sanchi)",
+      "distance_km": 7,
+      "contact": "07532-234120",
+      "address": "दूध शीतलन केंद्र, जिला केंद्र"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹22,000 - ₹34,000 प्रतिमाह",
+      "stipend": "सहकारी समिति के सभी सरकारी लाभ एवं बोनस",
+      "toolkit": "लैब टेस्टिंग उपकरण एवं ऑटोमेशन ट्रेनिंग"
+    },
+    "suitable_for": [
+      "दूध की गुणवत्ता व फैट परीक्षण में जिम्मेदार सुपरवाइजर पद",
+      "मुरैना और चंबल के डेयरी बाहुल्य क्षेत्र में स्थानीय नौकरी",
+      "पशुपालन पृष्ठभूमि वाले युवाओं के लिए सुरक्षित करियर"
+    ],
+    "image_type": "dairy"
+  },
+  {
+    "id": "JOB-SHH-MINE-01",
+    "title_hi": "माइनिंग हैवी मशीनरी ऑपरेटर व मेंटेनेंस मैकेनिक",
+    "title_en": "Mining Equipment Fleet Mechanic & Operator",
+    "category": "job",
+    "sector": "Mining & Heavy Engineering",
+    "nsqf_level": 5,
+    "duration": "नियमित कंपनी रोजगार (फुल टाइम)",
+    "min_education": "secondary",
+    "districts": [
+      "Shahdol",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 23.2957,
+      "lng": 81.3577
+    },
+    "institute": {
+      "name_hi": "एसईसीएल अधिकृत खनन उपकरण सेवाएं प्रा. लि.",
+      "name_en": "SECL Authorized Mining Equipment Services Ltd",
+      "distance_km": 6,
+      "contact": "07652-243500",
+      "address": "माइनिंग कॉम्प्लेक्स, सोहागपुर एरिया, शहडोल"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹28,000 - ₹45,000 प्रतिमाह",
+      "stipend": "ईपीएफ, ईएसआईसी, माइनिंग अलाउंस व मेडिकल बीमा",
+      "toolkit": "कंपनी द्वारा सुरक्षा उपकरण व सर्टिफिकेशन"
+    },
+    "suitable_for": [
+      "शहडोल व नजदीकी कोलियरी प्रोजेक्ट्स में ऑन-साइट टेक्निकल जॉब",
+      "हाइड्रोलिक क्रेन, बुलडोजर व ड्रिलिंग इक्विपमेंट मेंटेनेंस",
+      "अनुभवी आईटीआई फिटर व डीजल मैकेनिक हेतु प्राथमिकता"
+    ],
+    "image_type": "electrician"
+  },
+  {
+    "id": "JOB-SHH-AGRI-02",
+    "title_hi": "लघु वनोपज (MFP) एवं कृषि आपूर्ति श्रृंखला सुपरवाइजर",
+    "title_en": "Agri-Forestry Supply Chain & MFP Quality Supervisor",
+    "category": "job",
+    "sector": "Agriculture & Forest Produce",
+    "nsqf_level": 4,
+    "duration": "फुल टाइम रोजगार",
+    "min_education": "primary",
+    "districts": [
+      "Shahdol",
+      "Rewa",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 23.31,
+      "lng": 81.37
+    },
+    "institute": {
+      "name_hi": "मध्य प्रदेश राज्य लघु वनोपज व्यापार महासंघ",
+      "name_en": "MP Minor Forest Produce Federation Hub",
+      "distance_km": 5,
+      "contact": "07652-240180",
+      "address": "जिला वनोपज प्रसंस्करण केंद्र, शहडोल"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹20,000 - ₹32,000 प्रतिमाह",
+      "stipend": "सरकारी निगम लाभ, वार्षिक इंसेंटिव व यात्रा भत्ता",
+      "toolkit": "ग्रेडिंग, डिजिटल मॉइस्चर मीटर व इन्वेंट्री टैबलेट"
+    },
+    "suitable_for": [
+      "महुआ, हर्रा, बहेड़ा व लाख के संकलन केंद्रों का प्रबंधन",
+      "आदिवासी प्राथमिक वनोपज समितियों से सीधी खरीदी व ग्रेडिंग",
+      "स्थानीय युवाओं के लिए अपने ही जिले में सरकारी निगम की नौकरी"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "JOB-MRN-CNST-01",
+    "title_hi": "भवन निर्माण साइट सुपरवाइजर व सर्वेक्षक",
+    "title_en": "Building Construction Site Supervisor & Surveyor",
+    "category": "job",
+    "sector": "Construction & Real Estate",
+    "nsqf_level": 4,
+    "duration": "फुल टाइम रोजगार",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Rewa",
+      "Ratlam",
+      "Jabalpur",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "चंबल इंफ्रास्ट्रक्चर एवं हाईवे प्रोजेक्ट्स प्रा. लि.",
+      "name_en": "Chambal Infrastructure & Highway Projects Ltd",
+      "distance_km": 8,
+      "contact": "07532-228910",
+      "address": "बायपास इंडस्ट्रियल एरिया, मुरैना"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹24,000 - ₹38,000 प्रतिमाह",
+      "stipend": "ईएसआईसी, पीएफ, ऑन-साइट आवास व भोजन सुविधा",
+      "toolkit": "टोटल स्टेशन सर्वे डिवाइस व सेफ्टी हेलमेट किट"
+    },
+    "suitable_for": [
+      "मुरैना-ग्वालियर एक्सप्रेसवे व आवासीय टाउनशिप में सुपरवाइजर पद",
+      "निर्माण सामग्री की गुणवत्ता जांच और लेबर टीम प्रबंधन",
+      "सिविल व मेसनरी अनुभव वाले युवाओं के लिए करियर ग्रोथ"
+    ],
+    "image_type": "electrician"
+  },
+  {
+    "id": "JOB-MRN-DRV-02",
+    "title_hi": "वाणिज्यिक भारी वाहन एवं लॉजिस्टिक्स फ्लीट ऑपरेटर",
+    "title_en": "Commercial Vehicle & Logistics Transport Fleet Driver",
+    "category": "job",
+    "sector": "Automotive & Logistics",
+    "nsqf_level": 4,
+    "duration": "नियमित रोजगार",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Jabalpur",
+      "Rewa",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 26.705,
+      "lng": 78.231
+    },
+    "institute": {
+      "name_hi": "मध्य प्रदेश स्टेट एग्रो ट्रांसपोर्ट लॉजिस्टिक्स",
+      "name_en": "MP State Agro Transport & Logistics Ltd",
+      "distance_km": 7,
+      "contact": "07538-234500",
+      "address": "मंडी ट्रांसपोर्ट नगर, मुरैना"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹22,000 - ₹35,000 प्रतिमाह + ट्रिप अलाउंस",
+      "stipend": "हेल्थ व एक्सीडेंट बीमा कवर ₹10 लाख",
+      "toolkit": "वाणिज्यिक ड्राइविंग लाइसेंस अपग्रेड व जीपीएस डिवाइस"
+    },
+    "suitable_for": [
+      "कृषि मंडियों और कोल्ड स्टोरेज से माल ढुलाई का नियमित काम",
+      "भारी वाहन ड्राइविंग का वैध लाइसेंस रखने वाले युवाओं हेतु तुरंत जॉइनिंग",
+      "स्थानीय व अंतर-राज्यीय मार्गों पर सुरक्षित फ्लीट संचालन"
+    ],
+    "image_type": "drone"
+  },
+  {
+    "id": "JOB-RTL-FOOD-01",
+    "title_hi": "खाद्य प्रसंस्करण व ऑटोमेटेड पैकेजिंग सुपरवाइजर",
+    "title_en": "Food Production & Automated Packaging Supervisor",
+    "category": "job",
+    "sector": "Food Processing & ODOP",
+    "nsqf_level": 4,
+    "duration": "फुल टाइम कंपनी जॉब",
+    "min_education": "primary",
+    "districts": [
+      "Ratlam",
+      "Morena",
+      "Jabalpur",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.3315,
+      "lng": 75.0367
+    },
+    "institute": {
+      "name_hi": "रतलाम एग्रो-फूड्स एवं नमकीन क्लस्टर प्रा. लि.",
+      "name_en": "Ratlam Agro-Foods & Namkeen Processing Hub",
+      "distance_km": 5,
+      "contact": "07412-256700",
+      "address": "औद्योगिक क्षेत्र दोबत्ती, रतलाम"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹22,000 - ₹34,000 प्रतिमाह",
+      "stipend": "ईपीएफ, ईएसआईसी एवं वार्षिक प्रदर्शन बोनस",
+      "toolkit": "एफएसएसएआई फूड सेफ्टी व पैकेजिंग ट्रेनिंग"
+    },
+    "suitable_for": [
+      "रतलाम के प्रसिद्ध नमकीन एवं मसाला उद्योगों में स्थिर जॉब",
+      "ऑटोमेटेड फ्राइंग, मिक्सिंग और वैक्यूम पैकेजिंग मशीनों का संचालन",
+      "खाद्य उद्योग में सुपरवाइजर के रूप में सुरक्षित भविष्य"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "JOB-RTL-LOG-03",
+    "title_hi": "कृषि उपज मंडी लॉजिस्टिक्स व अनाज गुणवत्ता नियंत्रक",
+    "title_en": "Agri-Mandi Logistics & Grain Quality Controller",
+    "category": "job",
+    "sector": "Agriculture & Allied",
+    "nsqf_level": 4,
+    "duration": "फुल टाइम रोजगार",
+    "min_education": "primary",
+    "districts": [
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Jabalpur",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 23.6358,
+      "lng": 75.1278
+    },
+    "institute": {
+      "name_hi": "मध्य प्रदेश राज्य कृषि विपणन बोर्ड (जावरा मंडी)",
+      "name_en": "MP Mandi Board & Agro Logistics Center Jaora",
+      "distance_km": 8,
+      "contact": "07414-223400",
+      "address": "कृषि उपज मंडी प्रांगण, जावरा, रतलाम"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹20,000 - ₹30,000 प्रतिमाह",
+      "stipend": "सरकारी मंडी बोर्ड कल्याणकारी लाभ एवं सुरक्षा",
+      "toolkit": "अनाज सैंपलिंग किट व डिजिटल गुणवत्ता स्कैनर"
+    },
+    "suitable_for": [
+      "जावरा व रतलाम मंडी में लहसुन, गेहूं व सोयाबीन की गुणवत्ता जांच",
+      "ई-नाम (e-NAM) डिजिटल नीलामी और वजन रिकॉर्डिंग कार्य",
+      "ग्रामीण पृष्ठभूमि के युवाओं हेतु प्रतिष्ठित स्थानीय नौकरी"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "JOB-REW-ELEC-01",
+    "title_hi": "रीवा सोलर पार्क ग्रिड ट्रांसमिशन व सब-स्टेशन लाइनमैन",
+    "title_en": "Solar Park Grid Transmission & Sub-Station Lineman",
+    "category": "job",
+    "sector": "Green Jobs & Renewable Energy",
+    "nsqf_level": 4,
+    "duration": "नियमित जॉब",
+    "min_education": "secondary",
+    "districts": [
+      "Rewa",
+      "Ratlam",
+      "Jabalpur",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 24.5362,
+      "lng": 81.3037
+    },
+    "institute": {
+      "name_hi": "मध्य प्रदेश पूर्व क्षेत्र विद्युत वितरण कंपनी (रीवा सोलर ग्रिड)",
+      "name_en": "MP Poorv Kshetra Vidyut Vitaran Co. (Rewa Solar Grid)",
+      "distance_km": 10,
+      "contact": "07662-245600",
+      "address": "गुढ़ सोलर पार्क ग्रिड स्टेशन, रीवा"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹22,000 - ₹36,000 प्रतिमाह",
+      "stipend": "ईपीएफ, ईएसआईसी स्वास्थ्य बीमा एवं जोखिम भत्ता",
+      "toolkit": "कंपनी वाहन, इंसुलेटेड ग्लव्स व फॉल्ट डिटेक्टर किट"
+    },
+    "suitable_for": [
+      "एशिया के सबसे बड़े 750 मेगावाट रीवा सोलर पार्क में स्थिर नौकरी",
+      "33KV/132KV सब-स्टेशनों और सोलर इन्वर्टर यार्ड का रखरखाव",
+      "आईटीआई इलेक्ट्रीशियन पास युवाओं हेतु सीधी नियुक्ति"
+    ],
+    "image_type": "solar"
+  },
+  {
+    "id": "JOB-JBL-GAR-01",
+    "title_hi": "रेडीमेड गारमेंट असेंबली लाइन सुपरवाइजर",
+    "title_en": "Industrial Readymade Garment Assembly Line Supervisor",
+    "category": "job",
+    "sector": "Apparel & Garment",
+    "nsqf_level": 4,
+    "duration": "फुल टाइम कंपनी जॉब",
+    "min_education": "primary",
+    "districts": [
+      "Jabalpur",
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 23.1815,
+      "lng": 79.965
+    },
+    "institute": {
+      "name_hi": "माढोताल रेडीमेड गारमेंट क्लस्टर एसोसिएशन",
+      "name_en": "Madhotal Readymade Garment Cluster Pvt Ltd",
+      "distance_km": 5,
+      "contact": "0761-2489000",
+      "address": "गारमेंट पार्क, माढोताल औद्योगिक क्षेत्र, जबलपुर"
+    },
+    "employment_type": "wage",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "वेतन: ₹22,000 - ₹34,000 प्रतिमाह",
+      "stipend": "ईपीएफ, ईएसआईसी स्वास्थ्य सुविधा व मातृत्व लाभ",
+      "toolkit": "कंप्यूटराइज्ड पैटर्न कटर व क्वालिटी चेकिंग टूल्स"
+    },
+    "suitable_for": [
+      "जबलपुर गारमेंट क्लस्टर में सिलाई कारीगरों की टीम का नेतृत्व",
+      "निर्यात गुणवत्ता वाले कपड़ों की फिनिशिंग और पैकेजिंग निरीक्षण",
+      "सिलाई का हुनर रखने वाले युवाओं व महिलाओं हेतु सुपरवाइजर पद"
+    ],
+    "image_type": "tailoring"
+  },
+  {
+    "id": "BIZ-AGR-01",
+    "title_hi": "केंचुआ खाद एवं बायो-फर्टिलाइजर ग्राम उद्यम",
+    "title_en": "Vermicompost & Bio-Fertilizer Micro-Enterprise",
+    "category": "self_employment",
+    "sector": "Agriculture & Allied",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार (खुद का व्यवसाय)",
+    "min_education": "no_formal",
+    "districts": [
+      "Shahdol",
+      "Ratlam",
+      "Rewa",
+      "Jabalpur",
+      "Morena",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.2957,
+      "lng": 81.3577
+    },
+    "institute": {
+      "name_hi": "जिला उद्योग केंद्र (DIC) एवं नाबार्ड सहयोगी बैंक",
+      "name_en": "District Industries Centre & Lead Bank (PNB/SBI)",
+      "distance_km": 6,
+      "contact": "07652-240120",
+      "address": "कलेक्ट्रेट रोड, जिला उद्योग केंद्र"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 शत-प्रतिशत पूंजीगत अनुदान (PM-AJAY GIA)",
+      "stipend": "बैंक लोन पर 5% ब्याज छूट (मुद्रा योजना)",
+      "toolkit": "एचडीपीई वर्मी-बेड एवं पैकेजिंग मशीन किट"
+    },
+    "suitable_for": [
+      "गाँव में गोबर और कृषि अवशेष से हर महीने 5-10 टन खाद उत्पादन",
+      "नजदीकी किसानों और नर्सरी को ₹8-₹12 प्रति किलो सीधी बिक्री",
+      "मासिक ₹25,000 - ₹45,000 तक का शुद्ध मुनाफा"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "BIZ-SOL-02",
+    "title_hi": "ग्रामीण सोलर रिपेयरिंग, बैटरी चार्जिंग व सर्विस केंद्र",
+    "title_en": "Rural Solar Repair & Service Micro-Center",
+    "category": "self_employment",
+    "sector": "Green Jobs & Renewable Energy",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार (दुकान/केंद्र)",
+    "min_education": "primary",
+    "districts": [
+      "Rewa",
+      "Ratlam",
+      "Shahdol",
+      "Morena",
+      "Jabalpur",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 24.5362,
+      "lng": 81.3037
+    },
+    "institute": {
+      "name_hi": "लीड बैंक पीएनबी / ग्रामीण बैंक स्वरोजगार शाखा",
+      "name_en": "Lead Bank PNB / Gramin Bank Enterprise Branch",
+      "distance_km": 5,
+      "contact": "07662-241560",
+      "address": "तहसील परिसर, ब्लॉक केंद्र"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 प्रत्यक्ष दुकान एवं टूलकिट अनुदान (PM-AJAY GIA)",
+      "stipend": "पीएम-कुसुम अधिकृत वेंडर रजिस्ट्रेशन सहायता",
+      "toolkit": "मल्टीमीटर, इनवर्टर चार्जर व सेफ्टी लैडर किट"
+    },
+    "suitable_for": [
+      "गाँव व कस्बों में सोलर लाइट और बोरवेल पंप रिपेयरिंग की दुकान",
+      "स्पेयर पार्ट्स और नई सोलर प्लेट्स की डीलरशिप",
+      "मासिक ₹30,000 से अधिक की नियमित आय"
+    ],
+    "image_type": "solar"
+  },
+  {
+    "id": "BIZ-HND-03",
+    "title_hi": "पारंपरिक हथकरघा व आधुनिक बुटीक डिज़ाइन स्टूडियो",
+    "title_en": "Handloom Weaving & Designer Boutique Studio",
+    "category": "self_employment",
+    "sector": "Handicrafts & Carpet",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार (बुटीक)",
+    "min_education": "no_formal",
+    "districts": [
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Jabalpur",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 23.3315,
+      "lng": 75.0367
+    },
+    "institute": {
+      "name_hi": "पीएम विश्वकर्मा एवं आरसेटी ग्रामीण उद्यम केंद्र",
+      "name_en": "PM Vishwakarma & RSETI Rural Hub",
+      "distance_km": 6,
+      "contact": "07412-234890",
+      "address": "सागोद रोड, रतलाम"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹15,000 आधुनिक टूलकिट ई-वाउचर + ₹50,000 पीएम-अजय ग्रांट",
+      "stipend": "₹1 लाख तक बिना गारंटी लोन मात्र 5% ब्याज पर",
+      "toolkit": "इलेक्ट्रिक सिलाई व एम्ब्रॉयडरी मशीन किट"
+    },
+    "suitable_for": [
+      "पारंपरिक बुनकरों और टेलरों के लिए आधुनिक गारमेंट शोरूम",
+      "ओएनडीसी और अमेज़न/मीशो पर ऑनलाइन कपड़े बेचने की सुविधा",
+      "महिला स्वयं सहायता समूहों को जोड़कर क्लस्टर विस्तार"
+    ],
+    "image_type": "tailoring"
+  },
+  {
+    "id": "BIZ-DRY-04",
+    "title_hi": "मिनी डेयरी फार्म व दूध संकलन केंद्र (₹50,000 ग्रांट)",
+    "title_en": "Mini Dairy Farm & Value-Added Milk Center",
+    "category": "self_employment",
+    "sector": "Animal Husbandry & Dairy",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार",
+    "min_education": "no_formal",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Sehore",
+      "Shahdol",
+      "Rewa",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "नाबार्ड एवं जिला पशुपालन विभाग केंद्र",
+      "name_en": "NABARD & Animal Husbandry Center",
+      "distance_km": 8,
+      "contact": "07532-225670",
+      "address": "पशु चिकित्सालय परिसर, मुरैना"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 पीएम-अजय पूंजीगत अनुदान (कैटल शेड व चिलर)",
+      "stipend": "नाबार्ड पशुधन बीमा एवं रियायती ऋण",
+      "toolkit": "मिल्क कैन, फैट टेस्टर व चारा कटर मशीन"
+    },
+    "suitable_for": [
+      "3 से 5 दुधारू मुर्रा भैंस या देशी गायों से मिनी डेयरी संचालन",
+      "गाँव में दूध संकलन कर डेयरी फेडरेशन को नियमित आपूर्ति",
+      "मासिक ₹30,000 से ₹50,000 का सतत शुद्ध लाभ"
+    ],
+    "image_type": "dairy"
+  },
+  {
+    "id": "BIZ-SHH-LAC-01",
+    "title_hi": "लाख उत्पादन, प्राकृतिक रंग एवं चूड़ी निर्माण ग्राम कुटीर",
+    "title_en": "Lac Cultivation, Processing & Natural Dye Micro-Enterprise",
+    "category": "self_employment",
+    "sector": "Forest Produce & Handicrafts",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार कुटीर उद्योग",
+    "min_education": "no_formal",
+    "districts": [
+      "Shahdol",
+      "Jabalpur",
+      "Rewa"
+    ],
+    "coordinates": {
+      "lat": 23.2957,
+      "lng": 81.3577
+    },
+    "institute": {
+      "name_hi": "ट्राइफेड (TRIFED) एवं जिला उद्योग केंद्र शहडोल",
+      "name_en": "TRIFED & District Industries Centre Shahdol",
+      "distance_km": 5,
+      "contact": "07652-241900",
+      "address": "कलेक्ट्रेट रोड, शहडोल"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 100% पूंजीगत अनुदान (PM-AJAY GIA)",
+      "stipend": "ट्राइफेड से न्यूनतम समर्थन मूल्य (MSP) पर सीधी खरीदी",
+      "toolkit": "लाख प्रोसेसिंग भट्टी, डाई मोल्ड व सीलिंग किट"
+    },
+    "suitable_for": [
+      "शहडोल व उमरिया के कुसुम व पलाश पेड़ों पर लाख की वैज्ञानिक खेती",
+      "कच्ची लाख से पारंपरिक चूड़ियां, रंग व सीलिंग वैक्स निर्माण",
+      "हर फसल चक्र में ₹60,000 - ₹1,00,000 की सीधी नकद आय"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "BIZ-MRN-OIL-02",
+    "title_hi": "शुद्ध सरसों तेल (कच्ची घाणी) एवं खल निर्माण लघु उद्योग",
+    "title_en": "Cold-Pressed Mustard Oil (Kachi Ghani) Processing Unit",
+    "category": "self_employment",
+    "sector": "Food Processing & ODOP",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार उद्यम",
+    "min_education": "primary",
+    "districts": [
+      "Morena",
+      "Ratlam",
+      "Rewa",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 26.4947,
+      "lng": 77.994
+    },
+    "institute": {
+      "name_hi": "पीएमएफएमई एवं जिला उद्योग केंद्र (DIC) मुरैना",
+      "name_en": "PMFME & District Industries Centre Morena",
+      "distance_km": 6,
+      "contact": "07532-231150",
+      "address": "इंडस्ट्रियल एस्टेट, मुरैना"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 पीएम-अजय जीआईए + 35% पीएमएफएमई सब्सिडी",
+      "stipend": "मुद्रा योजना अंतर्गत ₹3 लाख तक आसान बैंक ऋण",
+      "toolkit": "ऑटोमेटेड कोल्ड-प्रेस कोल्हू एवं ऑयल फिल्टर यूनिट"
+    },
+    "suitable_for": [
+      "मुरैना के प्रमुख उत्पाद (सरसों) से शुद्ध कच्ची घाणी तेल तैयार करना",
+      "स्थानीय बाज़ारों में उच्च मांग और पशु आहार हेतु पौष्टिक खल की बिक्री",
+      "प्रतिमाह ₹35,000 से ₹60,000 तक का सुरक्षित शुद्ध मुनाफा"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "BIZ-RTL-GAR-02",
+    "title_hi": "लहसुन व प्याज पाउडर डिहाइड्रेशन प्रसंस्करण केंद्र",
+    "title_en": "Dehydrated Garlic & Onion Powder Processing Enterprise",
+    "category": "self_employment",
+    "sector": "Food Processing & ODOP",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार (ODOP रतलाम)",
+    "min_education": "primary",
+    "districts": [
+      "Ratlam",
+      "Morena",
+      "Sehore",
+      "Jabalpur"
+    ],
+    "coordinates": {
+      "lat": 23.3315,
+      "lng": 75.0367
+    },
+    "institute": {
+      "name_hi": "ओडीओपी केंद्र एवं लीड बैंक (बैंक ऑफ इंडिया रतलाम)",
+      "name_en": "ODOP Hub & Lead Bank (BOI Ratlam)",
+      "distance_km": 7,
+      "contact": "07412-245890",
+      "address": "कृषि निर्यात जोन, रतलाम"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 पीएम-अजय पूंजीगत अनुदान (GIA Component)",
+      "stipend": "ओडीओपी पैकेजिंग व एफएसएसएआई लाइसेंस सहायता",
+      "toolkit": "सोलर ड्रायर, ग्राइंडिंग पल्वराइजर व वैक्यूम पैकेजिंग मशीन"
+    },
+    "suitable_for": [
+      "रतलाम के ओडीओपी (लहसुन) को प्रोसेस कर टिकाऊ पाउडर बनाना",
+      "मसाला कंपनियों, होटलों और निर्यातकों को थोक सप्लाई",
+      "फसल बर्बादी रोककर साल भर नियमित भारी मुनाफा"
+    ],
+    "image_type": "agriculture"
+  },
+  {
+    "id": "BIZ-REW-ART-02",
+    "title_hi": "विंध्य पारंपरिक सुपारी कला एवं प्रस्तर शिल्प डिज़ाइन स्टूडियो",
+    "title_en": "Betel Nut (Supari) & Stone Handicrafts Design Studio",
+    "category": "self_employment",
+    "sector": "Handicrafts & Heritage Crafts",
+    "nsqf_level": 4,
+    "duration": "स्वरोजगार कुटीर स्टूडियो",
+    "min_education": "no_formal",
+    "districts": [
+      "Rewa",
+      "Jabalpur",
+      "Shahdol"
+    ],
+    "coordinates": {
+      "lat": 24.5362,
+      "lng": 81.3037
+    },
+    "institute": {
+      "name_hi": "पीएम विश्वकर्मा शिल्प केंद्र एवं आरसेटी रीवा",
+      "name_en": "PM Vishwakarma Craft Hub & RSETI Rewa",
+      "distance_km": 5,
+      "contact": "07662-241500",
+      "address": "शिल्प ग्राम, कोठी रोड, रीवा"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 पीएम-अजय प्रत्यक्ष उपकरण व शोरूम अनुदान",
+      "stipend": "₹15,000 डिजिटल ई-वाउचर आधुनिक नक्काशी औजार हेतु",
+      "toolkit": "माइक्रो-कार्विंग इलेक्ट्रिक रोटरी टूल्स व पॉलिशर"
+    },
+    "suitable_for": [
+      "रीवा की प्रसिद्ध जीआई-टैग सुपारी कलाकृतियां व सजावटी मूर्तियां",
+      "पर्यटन स्थलों, सरकारी उपहारों और ऑनलाइन हैंडीक्राफ्ट पोर्टल्स पर बिक्री",
+      "पारंपरिक मूर्तिकारों व शिल्पकारों हेतु अत्यंत सम्मानजनक व लाभकारी काम"
+    ],
+    "image_type": "tailoring"
+  },
+  {
+    "id": "GRANT-PMAJAY-01",
+    "title_hi": "पीएम-अजय ₹50,000 प्रत्यक्ष पूंजीगत सब्सिडी (GIA)",
+    "title_en": "PM-AJAY ₹50,000 Direct Capital Subsidy (GIA)",
+    "category": "grant",
+    "sector": "Social Justice & Financial Inclusion",
+    "nsqf_level": 4,
+    "duration": "प्रत्यक्ष वित्तीय सहायता (एकमुश्त डीबीटी)",
+    "min_education": "no_formal",
+    "districts": [
+      "Jabalpur",
+      "Shahdol",
+      "Ratlam",
+      "Morena",
+      "Rewa",
+      "Sehore"
+    ],
+    "coordinates": {
+      "lat": 23.1815,
+      "lng": 79.965
+    },
+    "institute": {
+      "name_hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय (MoSJE)",
+      "name_en": "Ministry of Social Justice & Empowerment (MoSJE)",
+      "distance_km": 3,
+      "contact": "1800-11-2001",
+      "address": "जिला कलेक्ट्रेट एवं सहायक आयुक्त कार्यालय"
+    },
+    "employment_type": "self",
+    "pm_ajay_benefits": {
+      "capital_subsidy": "₹50,000 शत-प्रतिशत गैर-वापसी योग्य पूंजी अनुदान (GIA)",
+      "stipend": "लीड बैंक (PNB/SBI/CBI) द्वारा मुद्रा ऋण लिंकेज",
+      "toolkit": "व्यवसाय चयन अनुसार आवश्यक टूलकिट व मशीनरी"
+    },
+    "suitable_for": [
+      "अनुसूचित जाति (SC) के बीपीएल/ग्रामीण परिवारों के लिए 100% मुफ्त अनुदान",
+      "अपनी पसंद का नया लघु व्यवसाय, दुकान या कृषि उद्यम शुरू करने हेतु",
+      "सीधे आपके बैंक खाते में डीबीटी (DBT) के माध्यम से हस्तांतरित"
+    ],
+    "image_type": "agriculture"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "gram-saksham",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Gram Saksham AI Kiosk & IVR for MoSJE PM-AJAY GIA Component (SIH PS ID 26097)",
+  "scripts": {
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "node server/server.js",
+    "build": "npm run build --prefix client",
+    "seed": "node server/scripts/seed_db.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "mongoose": "^8.9.5"
+  }
+}

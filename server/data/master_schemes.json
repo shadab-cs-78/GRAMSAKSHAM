@@ -1,0 +1,104 @@
+[
+  {
+    "id": "scheme-pmkvy",
+    "title": "Pradhan Mantri Kaushal Vikas Yojana 4.0 (PMKVY 4.0)",
+    "title_hi": "प्रधानमंत्री कौशल विकास योजना 4.0",
+    "title_mr": "प्रधानमंत्री कौशल्य विकास योजना ४.० (PMKVY 4.0)",
+    "ministry": "Ministry of Skill Development and Entrepreneurship (MSDE)",
+    "badge": "Flagship Skilling",
+    "badge_color": "orange",
+    "official_portal": "https://www.skillindiadigital.gov.in/",
+    "eligibility": "Indian citizen aged 15-45 years, minimum 5th/8th pass depending on job role.",
+    "key_benefits": [
+      "100% Free NSQF-aligned training across 4,500+ PMKK and KVK centers",
+      "Direct Benefit Transfer (DBT) stipend of ₹3,000 - ₹4,500/month for rural trainees",
+      "Government DigiLocker-verified NSQF Level 3-7 certification with national validity",
+      "Post-training placement and apprenticeship linkage via National Apprenticeship Promotion Scheme (NAPS)"
+    ]
+  },
+  {
+    "id": "scheme-drone-didi",
+    "title": "Namo Drone Didi Scheme (Kisan Drone Skilling)",
+    "title_hi": "नमो ड्रोन दीदी योजना (किसान ड्रोन कौशल)",
+    "title_mr": "नमो ड्रोन दीदी योजना (किसान ड्रोन कौशल्य)",
+    "ministry": "Ministry of Agriculture & Farmers Welfare & MSDE",
+    "badge": "AgriTech & Women Empowerment",
+    "badge_color": "blue",
+    "official_portal": "https://agricoop.nic.in/",
+    "eligibility": "Members of DAY-NRLM Self Help Groups, minimum 10th pass, aged 18+.",
+    "key_benefits": [
+      "15,000 Women Self-Help Groups (SHGs) provided with subsidized agricultural drones",
+      "15-day DGCA-approved Remote Pilot training at ICAR-KVKs with free boarding",
+      "Trainees earn ₹25,000 - ₹45,000/month by offering custom spraying services to local farmers",
+      "Special emphasis on backward and aspirational districts for nano-fertilizer spraying"
+    ]
+  },
+  {
+    "id": "scheme-kusum",
+    "title": "PM-KUSUM Component-B & Surya Mitra Scheme",
+    "title_hi": "पीएम-कुसुम योजना (घटक-बी) एवं सूर्य मित्र कौशल",
+    "title_mr": "पीएम-कुसुम योजना (घटक-बी) आणि सूर्य मित्र कौशल्य",
+    "ministry": "Ministry of New and Renewable Energy (MNRE)",
+    "badge": "Green Energy & Solar",
+    "badge_color": "amber",
+    "official_portal": "https://pmkusum.mnre.gov.in/",
+    "eligibility": "Farmers, rural youth, and ITI holders in electrical/fitter/wireman trades.",
+    "key_benefits": [
+      "Up to 60% government subsidy for individual standalone solar water pumps",
+      "Skilling under 'Surya Mitra' (NSQF Level 4) for installation, repair and grid tie-in",
+      "Assured self-employment and servicing contracts with DISCOMs and pump vendors",
+      "Transforms diesel-dependent backward agriculture into clean, zero-fuel irrigation"
+    ]
+  },
+  {
+    "id": "scheme-vishwakarma",
+    "title": "PM Vishwakarma Yojana",
+    "title_hi": "पीएम विश्वकर्मा योजना",
+    "title_mr": "पीएम विश्वकर्मा योजना",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises (MoMSME)",
+    "badge": "Traditional Artisans",
+    "badge_color": "purple",
+    "official_portal": "https://pmvishwakarma.gov.in/",
+    "eligibility": "Traditional artisan or craftsperson working with hands and tools.",
+    "key_benefits": [
+      "Covers 18 traditional trades (Weavers, Blacksmiths, Potters, Carpenters, Masons, etc.)",
+      "₹500/day stipend during basic (5-7 days) & advanced (15 days) NSQF skilling",
+      "Digital e-Voucher of ₹15,000 for purchasing modern toolkit equipment",
+      "Collateral-free enterprise credit: ₹1 Lakh (1st tranche) & ₹2 Lakhs (2nd tranche) at 5% interest"
+    ]
+  },
+  {
+    "id": "scheme-pmfme",
+    "title": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+    "title_hi": "प्रधानमंत्री सूक्ष्म खाद्य उद्योग उन्नयन योजना (PMFME)",
+    "title_mr": "प्रधानमंत्री सूक्ष्म अन्न प्रक्रिया उद्योग योजना (PMFME)",
+    "ministry": "Ministry of Food Processing Industries (MoFPI)",
+    "badge": "FoodTech & Millets",
+    "badge_color": "emerald",
+    "official_portal": "https://pmfme.mofpi.gov.in/",
+    "eligibility": "Individual micro-units, FPOs, Cooperatives, and SHG members in food trades.",
+    "key_benefits": [
+      "35% capital subsidy (up to ₹10 Lakhs) for micro food processing equipment",
+      "₹40,000 per member Seed Capital for working capital & small tools for SHGs",
+      "NSQF-aligned training on 'One District One Product' (ODOP) value addition",
+      "FSSAI food hygiene licensing support and free marketing linkage via ONDC/NAFED"
+    ]
+  },
+  {
+    "id": "scheme-lakhpati-didi",
+    "title": "Lakhpati Didi Initiative (DAY-NRLM)",
+    "title_hi": "लखपति दीदी पहल (दीनदयाल अंत्योदय योजना - NRLM)",
+    "title_mr": "लखपती दीदी मोहीम (दीनदयाळ अंत्योदय योजना - NRLM)",
+    "ministry": "Ministry of Rural Development (MoRD)",
+    "badge": "Rural Livelihood",
+    "badge_color": "pink",
+    "official_portal": "https://aajeevika.gov.in/",
+    "eligibility": "Active members of women Self-Help Groups under DAY-NRLM.",
+    "key_benefits": [
+      "Enables rural women to earn sustainable income of at least ₹1 Lakh per year",
+      "Integrated livelihood skilling in dairy, poultry, goatry, mushroom, and organic bio-inputs",
+      "Community Investment Fund (CIF) support and bank credit linkage via SHG federations",
+      "Direct technical handholding by Krishi Sakhi and Pashu Sakhi community cadres"
+    ]
+  }
+]
