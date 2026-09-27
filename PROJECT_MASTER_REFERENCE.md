@@ -4,7 +4,7 @@
 > **Title:** AI-Driven Voice Assistant for Livelihood Mapping and NSQF-Aligned Skilling Recommendations for SC Communities under GIA Component of PM-AJAY  
 > **Ministry / Department:** Ministry of Social Justice and Empowerment (MoSJE)  
 > **Scheme:** Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY) — Grants-in-Aid (GIA) Component  
-> **Status:** 🟢 Live & Synchronized with Latest Codebase | **Last Updated:** 21 Sep 2026
+> **Status:** 🟢 Live & Synchronized with Latest Codebase | **Last Updated:** 27 Sep 2026
 
 > [!TIP]
 > **Live Access Links (Kiosk, Tablet & Smartphone):**
