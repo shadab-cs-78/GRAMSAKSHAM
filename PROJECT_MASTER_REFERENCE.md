@@ -409,14 +409,14 @@ In **Vercel Dashboard ➔ Project Settings ➔ Environment Variables**, add thes
    git add .
    git commit -m "Gram Saksham v2.0 - Full Production Ready"
    ```
-2. Create a repository on GitHub (e.g. `gram-saksham`) and push:
+2. Remote repository linked and pushed:
    ```bash
-   git remote add origin https://github.com/your-username/gram-saksham.git
+   git remote add origin https://github.com/shadab-cs-78/GRAMSAKSHAM.git
    git branch -M main
    git push -u origin main
    ```
 3. Go to [https://vercel.com/new](https://vercel.com/new).
-4. Click **Import** next to your `gram-saksham` repository.
+4. Click **Import** next to your `shadab-cs-78/GRAMSAKSHAM` repository.
 5. In **Build and Output Settings**, Vercel automatically reads `vercel.json`:
    * **Framework Preset:** `Other` (or `Vite`)
    * **Build Command:** `cd client && npm install && npm run build && node -e "const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive: true});"` (handles both `dist` and `client/dist`)
