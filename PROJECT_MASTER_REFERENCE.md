@@ -8,9 +8,10 @@
 
 > [!TIP]
 > **Live Access Links (Kiosk, Tablet & Smartphone):**
+> * **🌐 Public Live Tunnel URL (Open Anywhere on Any Device):** [https://draws-ssl-sponsored-advertisements.trycloudflare.com](https://draws-ssl-sponsored-advertisements.trycloudflare.com)
 > * **Local Machine URL:** [http://localhost:3000](http://localhost:3000)
-> * **Local Network / Wi-Fi LAN IP (Open on Mobile Devices):** [http://10.48.130.60:3000](http://10.48.130.60:3000)
-> * **Backend REST API:** [http://localhost:5000](http://localhost:5000) | [http://10.48.130.60:5000](http://10.48.130.60:5000)
+> * **Local Network / Wi-Fi LAN IP (Mobile Devices on Same Wi-Fi):** [http://10.146.3.60:3000](http://10.146.3.60:3000)
+> * **Backend REST API:** [http://localhost:5000](http://localhost:5000) | [http://10.146.3.60:5000](http://10.146.3.60:5000)
 
 > [!IMPORTANT]
 > **Continuous Update Rule:** This file is continuously updated on EVERY modification so you can always refer to any section, screen number, or component name when requesting changes.
@@ -451,6 +452,7 @@ Whenever you need any adjustment, you can simply refer to the sections above:
 ---
 
 ### 🌐 Live Running Status
-* **Frontend Kiosk & PWA:** `http://localhost:3000/`
-* **Local Network / Wi-Fi LAN IP (Mobile / Tablet):** `http://10.146.3.60:3000/`
+* **🌐 Public Live Tunnel URL (Anywhere in the World):** [https://draws-ssl-sponsored-advertisements.trycloudflare.com](https://draws-ssl-sponsored-advertisements.trycloudflare.com)
+* **Frontend Kiosk & PWA (Local):** `http://localhost:3000/`
+* **Local Network / Wi-Fi LAN IP (Mobile / Tablet on same Wi-Fi):** `http://10.146.3.60:3000/`
 * **Backend REST API:** `http://localhost:5000/` | `http://10.146.3.60:5000/`
