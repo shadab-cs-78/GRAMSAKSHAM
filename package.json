@@ -6,7 +6,7 @@
   "scripts": {
     "dev:client": "npm run dev --prefix client",
     "dev:server": "node server/server.js",
-    "build": "npm run build --prefix client",
+    "build": "cd client && npm install && npm run build && node -e \"const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive: true});\"",
     "seed": "node server/scripts/seed_db.js"
   },
   "dependencies": {

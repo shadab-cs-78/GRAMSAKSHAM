@@ -418,9 +418,9 @@ In **Vercel Dashboard ➔ Project Settings ➔ Environment Variables**, add thes
 3. Go to [https://vercel.com/new](https://vercel.com/new).
 4. Click **Import** next to your `gram-saksham` repository.
 5. In **Build and Output Settings**, Vercel automatically reads `vercel.json`:
-   * **Framework Preset:** Vite / Other
-   * **Build Command:** `cd client && npm install && npm run build` (configured in `vercel.json`)
-   * **Output Directory:** `client/dist` (configured in `vercel.json`)
+   * **Framework Preset:** `Other` (or `Vite`)
+   * **Build Command:** `cd client && npm install && npm run build && node -e "const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive: true});"` (handles both `dist` and `client/dist`)
+   * **Output Directory:** `client/dist` (or `dist`)
 6. Open **Environment Variables** and enter the 3 keys (`GEMINI_API_KEY`, `GEMINI_MODEL`, `MONGODB_URI`).
 7. Click **Deploy**. Your app will be live with full Serverless backend within 60 seconds!
 
