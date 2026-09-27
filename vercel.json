@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "cd client && npm install && npm run build && node -e \"const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive: true});\"",
+  "buildCommand": "node scripts/build.js",
   "outputDirectory": "client/dist",
   "functions": {
     "api/**/*.js": {

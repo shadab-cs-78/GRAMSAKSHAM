@@ -419,7 +419,7 @@ In **Vercel Dashboard ➔ Project Settings ➔ Environment Variables**, add thes
 4. Click **Import** next to your `shadab-cs-78/GRAMSAKSHAM` repository.
 5. In **Build and Output Settings**, Vercel automatically reads `vercel.json`:
    * **Framework Preset:** `Other` (or `Vite`)
-   * **Build Command:** `cd client && npm install && npm run build && node -e "const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive: true});"` (handles both `dist` and `client/dist`)
+   * **Build Command:** `node scripts/build.js` (universal runner that detects directory, installs client deps, builds Vite, and mirrors dist)
    * **Output Directory:** `client/dist` (or `dist`)
 6. Open **Environment Variables** and enter the 3 keys (`GEMINI_API_KEY`, `GEMINI_MODEL`, `MONGODB_URI`).
 7. Click **Deploy**. Your app will be live with full Serverless backend within 60 seconds!
